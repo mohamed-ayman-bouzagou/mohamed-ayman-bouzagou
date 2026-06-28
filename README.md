@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=26C6DA&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;React+%7C+Spring+Boot+%7C+Django+%7C+Laravel;Embedded+Systems+%7C+Arduino+%2F+C;AI+%26+Machine+Learning+Explorer;IIR+Student+%40+EMSI+Tanger;Open+to+Internship+%E2%80%94+July+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=26C6DA&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;React+%7C+Spring+Boot+%7C+Django+%7C+Laravel;Embedded+Systems+%7C+Arduino+%2F+C;AI+%26+Machine+Learning+Explorer;IIR+Student+%40+EMSI+Tanger" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,8 +31,6 @@
   <a href="https://github.com/mohamed-ayman-bouzagou?tab=followers">
     <img src="https://img.shields.io/github/followers/mohamed-ayman-bouzagou?label=Followers&style=for-the-badge&color=4DD0E1" alt="followers" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Internship-July%202026-0F3460?style=for-the-badge&color=26C6DA" alt="internship" />
 </p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/mohamed-ayman-bouzagou)
@@ -162,7 +160,6 @@ I'm open to collaborating on:
   <li>AI-powered applications</li>
   <li>Embedded &amp; robotics systems</li>
   <li>Desktop application development</li>
-  <li><b>Internship — July 2026</b> ✅</li>
 </ul>
 
 </td>
