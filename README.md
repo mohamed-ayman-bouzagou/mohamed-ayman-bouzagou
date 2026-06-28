@@ -1,150 +1,171 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4a1d96,100:2d1b69&height=250&section=header&text=Mohamed%20Ayman%20Bouzagou&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20EMSI%20Tanger&descAlignY=60&descSize=18" alt="Header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Ayman%20Bouzagou&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20EMSI%20Tanger&descAlignY=55&descSize=16" width="100%"/>
+<h3 align="center">
+  <samp>
+    &gt; Salam, I am &nbsp;
+    <b><a target="_blank" href="https://linkedin.com/in/mohamed-ayman-bouzagou">Mohamed Ayman Bouzagou</a></b>
+  </samp>
+</h3>
 
-<a href="https://github.com/mohamed-ayman-bouzagou">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Laravel+%7C+Django+%7C+Qt+%E2%9A%A1;Embedded+Systems+%7C+Arduino+%2F+C+%F0%9F%A4%96;IIR+Student+%40+EMSI+Tanger+%F0%9F%8E%93;Open+to+Internship+%E2%80%94+July+2026+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<br>
 
-<p>
+<p align="center">
+<samp>
+「 Full-Stack Developer building web platforms, desktop apps & embedded systems — powered by AI 」
+</samp>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Laravel+%7C+Django+%7C+Qt;Embedded+Systems+%7C+Arduino+%2F+C+%F0%9F%A4%96;AI+%26+Machine+Learning+Explorer+%F0%9F%A7%A0;IIR+Student+%40+EMSI+Tanger+%F0%9F%8E%93;Open+to+Internship+-+July+2026+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamed-ayman-bouzagou&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/mohamed-ayman-bouzagou?tab=followers">
     <img src="https://img.shields.io/github/followers/mohamed-ayman-bouzagou?label=Followers&style=for-the-badge&color=A78BFA" alt="followers" />
   </a>
 </p>
 
-</div>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/mohamed-ayman-bouzagou)
 
-<!-- ===================== ABOUT ME ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<p align="center">
+  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access title" />
+</p>
 
-```python
-name:        "Mohamed Ayman Bouzagou"
-role:        "Full-Stack Developer & Software Engineer"
-location:    "Tanger, Maroc 🇲🇦"
-school:      "EMSI Tanger — Ingénierie Informatique et Réseaux (IIR), Year 3"
-focus:       ["React", "Laravel", "Django", "Qt", "Embedded Systems"]
-building:    "Hotel Reservation Platform, Desktop & Embedded Systems"
-learning:    "Cloud Architecture, DevOps & AI Integration"
-available:   "Internship — July 2026 ✅"
-languages:   ["Arabic 🇲🇦 (Native)", "French 🇫🇷 (Fluent)", "English 🇬🇧 (Fluent)"]
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-ayman-bouzagou">
+    <img width="82%" src="./docs/img/system/portal_main.svg" alt="Mohamed system portal" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-featured-projects">
+    <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Web Projects" />
+  </a>
+  <a href="#-featured-projects">
+    <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Embedded Systems" />
+  </a>
+  <a href="#-ai--machine-learning-focus">
+    <img width="32%" src="./docs/img/system/model_forge.svg" alt="AI / ML" />
+  </a>
+</p>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/mohamed-ayman-bouzagou)
+
+<p align="center">
+  <img src="./docs/img/hirad_core.svg" width="100%" alt="Developer core panel" />
+</p>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/mohamed-ayman-bouzagou)
+
+# 🛠 Technologies, Projects, and Domains
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: TECH ICONS -->
+<td width="420" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+| | Project | Stack |
+|---|---|---|
+| 🤖 | **Voice Robot** | `Arduino` `C` |
+| 🏨 | **Hotel Desktop** | `Qt` `C++` |
+| 🌐 | **Hotel Web** | `React` `Laravel` |
+| ✅ | **TaskZen** | `React` `JS` |
+
+</td>
+
+<!-- AI DOMAINS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧠 Focus Areas</h3>
+<br>
+
+```
+├── 💻  Full-Stack Web Dev
+├── 🖥️   Desktop (Qt/C++)
+├── 🤖  Embedded Systems
+├── 🧠  AI / ML Integration
+├── 🗄️   Database Design
+└── ☁️   Cloud & DevOps
 ```
 
-- 🔭 &nbsp;I build full-stack web & desktop applications — from database design to polished frontends.
-- 🌱 &nbsp;Currently deepening my skills in Cloud, DevOps & AI integration.
-- 🤖 &nbsp;Built a **voice-controlled robot** with Arduino & C before my 3rd year!
-- 💬 &nbsp;Ask me about **React, Laravel, Django, Qt, C/C++, Embedded Systems**.
-- 📫 &nbsp;Reach me at **mohamedaymanbouzagou@gmail.com** &nbsp;|&nbsp; **+212 631 867 998**
+</td>
 
-<br/>
+</tr>
+</table>
 
-<!-- ===================== TECH STACK ===================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/mohamed-ayman-bouzagou)
 
-<div align="center">
+## 📊 Vital Statistics
 
-**Languages**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ayman-bouzagou&theme=radical&hide_border=true" alt="Streak" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ayman-bouzagou&theme=radical" alt="Profile details" />
+</p>
 
-**Frameworks & Libraries**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-ayman-bouzagou&label=PROFILE%20VIEWS&color=8b5cf6&style=flat-square" alt="Views" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ayman-bouzagou&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-**Databases**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ayman-bouzagou&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ===================== PROJECTS ===================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🤖 **Robot à Commande Vocale** | Robot contrôlé par reconnaissance vocale en temps réel + microcontrôleur | `Arduino` `C` | ✅ Done |
-| 🏨 **Système de Gestion d'Hôtel** | App desktop — réservations, chambres, clients, interface ergonomique | `Qt` `C++` | ✅ Done |
-| 🌐 **Site Réservation d'Hôtel** | Plateforme web moderne & responsive, backend + BDD intégrée | `React` `Laravel` `PHP` `MySQL` | ✅ Done |
-| ✅ **TaskZen** | Web app gestion de tâches — CRUD complet, UI claire et dynamique | `React` `JavaScript` | ✅ Done |
-
-</div>
-
-<br/>
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-## 🏆 Certifications
-
-<div align="center">
-
-| 📜 Certification | 🏛️ Platform |
-|---|---|
-| The Unix Workbench | Coursera / Johns Hopkins |
-| Interactivity with JavaScript | Coursera / University of Michigan |
-| Using Python to Access Web Data | Coursera / University of Michigan |
-| Introduction à la POO en C++ | Coursera |
-| Software Engineering: Design & Project Management | Coursera |
-
-</div>
-
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamed-ayman-bouzagou&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ayman-bouzagou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ayman-bouzagou&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamed-ayman-bouzagou&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eC/giphy.gif" width="30"> Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ayman-bouzagou&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-ayman-bouzagou&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</p>
 
 <div align="center">
   <picture>
@@ -154,24 +175,74 @@ languages:   ["Arabic 🇲🇦 (Native)", "French 🇫🇷 (Fluent)", "English �
   </picture>
 </div>
 
-<br/>
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/mohamed-ayman-bouzagou)
 
-<!-- ===================== CONNECT ===================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
 
-<div align="center">
+<!-- LEFT: OPEN TO -->
+<td width="33%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ayman-bouzagou)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaymanbouzagou@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-ayman-bouzagou)
+## 🤝 Open To
 
-</div>
+I'm open to collaborating on:
 
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
+<ul>
+  <li>Full-stack web projects</li>
+  <li>AI-powered applications</li>
+  <li>Embedded & robotics systems</li>
+  <li>Desktop application development</li>
+  <li><b>Internship — July 2026</b> ✅</li>
+</ul>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</td>
 
-⭐️ From [mohamed-ayman-bouzagou](https://github.com/mohamed-ayman-bouzagou)
+<!-- MIDDLE: COLLAB PANEL -->
+<td width="34%" align="center" valign="middle">
+  <a href="mailto:mohamedaymanbouzagou@gmail.com">
+    <img src="./docs/img/collaboration_panel.svg" width="200px" alt="Connect panel" />
+  </a>
+</td>
 
-</div>
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+## 📫 Contact
+
+<br>
+
+<a href="mailto:mohamedaymanbouzagou@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mohamedaymanbouzagou-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br><br>
+
+<a href="https://linkedin.com/in/mohamed-ayman-bouzagou">
+  <img src="https://img.shields.io/badge/LinkedIn-mohamed--ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br><br>
+
+<a href="https://github.com/mohamed-ayman-bouzagou">
+  <img src="https://img.shields.io/badge/GitHub-mohamed--ayman-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/mohamed-ayman-bouzagou)
+
+<p align="center">
+⚡ Building the future — one commit at a time.
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:4a1d96,100:1a0533&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/mohamed-ayman-bouzagou">mohamed-ayman-bouzagou</a>
+</p>
