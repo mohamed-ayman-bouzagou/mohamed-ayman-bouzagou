@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4a1d96,100:2d1b69&height=250&section=header&text=Mohamed%20Ayman%20Bouzagou&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20EMSI%20Tanger&descAlignY=60&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0F3460,100:1A5276&height=250&section=header&text=Mohamed%20Ayman%20Bouzagou&fontSize=60&fontColor=E0F7FA&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20EMSI%20Tanger&descAlignY=60&descSize=18&descColor=4DD0E1" alt="Header" />
 </p>
 
 <h3 align="center">
@@ -12,118 +12,91 @@
 <br>
 
 <p align="center">
-<samp>
-「 Full-Stack Developer building web platforms, desktop apps & embedded systems — powered by AI 」
-</samp>
+  <samp>
+    「 Building web platforms, desktop apps &amp; embedded systems — powered by AI 」
+  </samp>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Laravel+%7C+Django+%7C+Qt;Embedded+Systems+%7C+Arduino+%2F+C+%F0%9F%A4%96;AI+%26+Machine+Learning+Explorer+%F0%9F%A7%A0;IIR+Student+%40+EMSI+Tanger+%F0%9F%8E%93;Open+to+Internship+-+July+2026+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=26C6DA&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;React+%7C+Spring+Boot+%7C+Django+%7C+Laravel;Embedded+Systems+%7C+Arduino+%2F+C;AI+%26+Machine+Learning+Explorer;IIR+Student+%40+EMSI+Tanger;Open+to+Internship+%E2%80%94+July+2026" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamed-ayman-bouzagou&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="profile views" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-ayman-bouzagou&label=Profile%20Views&color=26C6DA&style=for-the-badge" alt="profile views" />
+  &nbsp;
   <a href="https://github.com/mohamed-ayman-bouzagou?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohamed-ayman-bouzagou?label=Followers&style=for-the-badge&color=A78BFA" alt="followers" />
+    <img src="https://img.shields.io/github/followers/mohamed-ayman-bouzagou?label=Followers&style=for-the-badge&color=4DD0E1" alt="followers" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Internship-July%202026-0F3460?style=for-the-badge&color=26C6DA" alt="internship" />
 </p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/mohamed-ayman-bouzagou)
 
-<p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access title" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mohamed-ayman-bouzagou">
-    <img width="82%" src="./docs/img/system/portal_main.svg" alt="Mohamed system portal" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#-featured-projects">
-    <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Web Projects" />
-  </a>
-  <a href="#-featured-projects">
-    <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Embedded Systems" />
-  </a>
-  <a href="#-ai--machine-learning-focus">
-    <img width="32%" src="./docs/img/system/model_forge.svg" alt="AI / ML" />
-  </a>
-</p>
-
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/mohamed-ayman-bouzagou)
-
-<p align="center">
-  <img src="./docs/img/hirad_core.svg" width="100%" alt="Developer core panel" />
-</p>
-
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/mohamed-ayman-bouzagou)
-
-# 🛠 Technologies, Projects, and Domains
+## 🛠 Technologies, Projects & Domains
 
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
 
-<!-- LEFT: TECH ICONS -->
 <td width="420" valign="top" align="center">
 
-<h3>🛠 Technologies</h3>
-<br>
+### 🛠 Technologies
 
 <table align="center" cellspacing="0" cellpadding="6">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" title="Python"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="32" title="PHP"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" title="Java"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" title="C"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" title="React"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="32" title="Laravel"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32" title="Django"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32" title="Spring Boot"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" title="MySQL"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32" title="SQL Server"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" title="Git"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" title="Linux"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" title="Figma"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32" title="Postman"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32" title="Scikit-learn"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" title="TensorFlow"/></td>
   </tr>
 </table>
 
 </td>
 
-<!-- PROJECTS -->
 <td width="260" valign="top" align="center">
 
-<h3>🧪 Projects</h3>
-<br>
+### 🧪 Projects
 
 | | Project | Stack |
 |---|---|---|
-| 🤖 | **Voice Robot** | `Arduino` `C` |
-| 🏨 | **Hotel Desktop** | `Qt` `C++` |
-| 🌐 | **Hotel Web** | `React` `Laravel` |
+| 🤖 | **EMSI ShareHub** | `React` `Spring Boot` `AI` |
+| 🏨 | **Hotel Web** | `React` `Laravel` |
+| 🖥️ | **Hotel Desktop** | `Qt` `C++` |
+| 🔊 | **Voice Robot** | `Arduino` `C` |
 | ✅ | **TaskZen** | `React` `JS` |
+| 📚 | **E-Learning** | `Django` `React` |
 
 </td>
 
-<!-- AI DOMAINS -->
 <td width="260" valign="top" align="center">
 
-<h3>🧠 Focus Areas</h3>
-<br>
+### 🧠 Focus Areas
 
 ```
 ├── 💻  Full-Stack Web Dev
@@ -139,32 +112,30 @@
 </tr>
 </table>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/mohamed-ayman-bouzagou)
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/mohamed-ayman-bouzagou)
 
 ## 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ayman-bouzagou&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ayman-bouzagou&theme=tokyonight&hide_border=true&ring=26C6DA&fire=4DD0E1&currStreakLabel=26C6DA" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ayman-bouzagou&theme=radical" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ayman-bouzagou&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamed-ayman-bouzagou&label=PROFILE%20VIEWS&color=8b5cf6&style=flat-square" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ayman-bouzagou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ayman-bouzagou&show_icons=true&theme=tokyonight&hide_border=true&icon_color=26C6DA&title_color=4DD0E1" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ayman-bouzagou&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ayman-bouzagou&theme=react-dark&hide_border=true&area=true&color=26C6DA&line=4DD0E1&point=E0F7FA" width="95%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ayman-bouzagou&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-ayman-bouzagou&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-ayman-bouzagou&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 <div align="center">
@@ -175,12 +146,11 @@
   </picture>
 </div>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/mohamed-ayman-bouzagou)
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/mohamed-ayman-bouzagou)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
-<!-- LEFT: OPEN TO -->
 <td width="33%" valign="top">
 
 ## 🤝 Open To
@@ -190,21 +160,23 @@ I'm open to collaborating on:
 <ul>
   <li>Full-stack web projects</li>
   <li>AI-powered applications</li>
-  <li>Embedded & robotics systems</li>
+  <li>Embedded &amp; robotics systems</li>
   <li>Desktop application development</li>
   <li><b>Internship — July 2026</b> ✅</li>
 </ul>
 
 </td>
 
-<!-- MIDDLE: COLLAB PANEL -->
 <td width="34%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200px" alt="Collaboration orb animation" />
+  <br>
+  <sub><b>convergence · shared systems · building together</b></sub>
+  <br><br>
   <a href="mailto:mohamedaymanbouzagou@gmail.com">
-    <img src="./docs/img/collaboration_panel.svg" width="200px" alt="Connect panel" />
+    <img src="https://img.shields.io/badge/CONNECT%20→-26C6DA?style=for-the-badge&labelColor=0D1B2A" />
   </a>
 </td>
 
-<!-- RIGHT: CONTACT -->
 <td width="33%" valign="top" align="center">
 
 ## 📫 Contact
@@ -212,17 +184,17 @@ I'm open to collaborating on:
 <br>
 
 <a href="mailto:mohamedaymanbouzagou@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mohamedaymanbouzagou-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-mohamedaymanbouzagou-26C6DA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1B2A" />
 </a>
 <br><br>
 
 <a href="https://linkedin.com/in/mohamed-ayman-bouzagou">
-  <img src="https://img.shields.io/badge/LinkedIn-mohamed--ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-MOHAMED--AYMAN-26C6DA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1B2A" />
 </a>
 <br><br>
 
 <a href="https://github.com/mohamed-ayman-bouzagou">
-  <img src="https://img.shields.io/badge/GitHub-mohamed--ayman-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-MOHAMED--AYMAN-26C6DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A" />
 </a>
 
 </td>
@@ -233,14 +205,14 @@ I'm open to collaborating on:
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/mohamed-ayman-bouzagou)
 
 <p align="center">
-⚡ Building the future — one commit at a time.
+  ⚡ Building the future — one commit at a time.
 </p>
 <p align="center">
-Star ⭐ the repos if they helped you!
+  Star ⭐ the repos if they helped you!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:4a1d96,100:1a0533&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,50:0F3460,100:0D1B2A&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
