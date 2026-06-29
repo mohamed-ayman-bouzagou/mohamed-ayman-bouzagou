@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <samp>
-    &gt;  Hey There!, I am &nbsp;
+    &gt;  Hey There!👋, I am &nbsp;
     <b><a target="_blank" href="https://linkedin.com/in/mohamed-ayman-bouzagou">Mohamed Ayman Bouzagou</a></b>
   </samp>
 </h3>
